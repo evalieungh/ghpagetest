@@ -1,3 +1,0 @@
-This is an index.html file created on the main branch of my ghpagetest repo.
-
-## Here is a header
