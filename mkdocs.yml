@@ -3,4 +3,5 @@ site_url: https://evalieungh.github.io/ghpagetest/
 nav:
     - Home: index.md
     - About: about.md
+    - Test: chapter2.md
 theme: readthedocs
